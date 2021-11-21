@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anya Joy
-- 👀 Interested in Front-End Development
+- 👀 Interested in Full Stack Web Development
 - 🌱 Currently learning JavaScript, React.js, HTML5/CSS3
 - 💞️ Open to new proposals
 - 📫 How to reach me (e-mail: urda-a@mail.ru)
