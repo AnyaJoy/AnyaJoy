@@ -1,4 +1,4 @@
-Hi! I’m Anya, a full stack software engineer who loves the idea of privacy and data ownership. Recently I’ve built a star registry private blockchain. And a personal blog for my friends and family to be able to follow my social media free life. I’d love to combine my passion for privacy and decentralization with my software development skills to contribute to creating the best products for people!
+Hi! I'm Anya, a full-stack developer driven by a passion for crafting ideas into reality and making people's lives easier. When I'm not coding, you can find me hiking in the mountains or practicing yoga. I'm always on the lookout for new challenges and opportunities to grow as a developer.
 
 - 👀 Interested in Full Stack Web Development, Blockchain Development
 - 🌱 Tech Stack -  JavaScript, React.js, NextJs, HTML5/CSS3, Node.js, SQL, MongoDB, Postgress, mySql, Tailwind, Material UI.
