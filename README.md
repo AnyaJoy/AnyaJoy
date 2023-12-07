@@ -1,5 +1,5 @@
 ## Hi, I'm Anya, a full-stack developer
-❤️ I'm driven by a passion for crafting ideas into reality and making people's lives easier. When I'm not coding, you can find me hiking in the mountains or practicing yoga. I'm always on the lookout for new challenges and opportunities to grow and serve a purpose!
+❤️ Software Developer with two years of experience in developing large-scale applications within Agile Scrum teams and through freelance projects. Able to learn independently and rapidly, with a keen interest in technology and a strong commitment to clean code practices.
 
 🔮 Tech Stack -  JavaScript, React.js, NextJs, HTML5/CSS3, Node.js, SQL (PostgreSQL, MySQL), MongoDB, AWS, TailwindCSS, Material UI.
 
